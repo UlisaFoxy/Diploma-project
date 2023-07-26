@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Diploma-project" parallel="methods" thread-count="5">
+    <test name="API test">
+        <classes>
+            <class name="api.tests.BoardAPITest"/>
+            <class name="api.tests.ProjectAPITest"/>
+        </classes>
+    </test>
+
+    <test name="UI test">
+        <classes>
+            <class name="ui.tests.LogInUITest"/>
+            <class name="ui.tests.CreateProjectUITest"/>
+            <class name="ui.tests.CreateNewTaskUITest"/>
+            <class name="ui.tests.AddCommentUITest"/>
+            <class name="ui.tests.CloseTaskUITest"/>
+        </classes>
+    </test>
+</suite>
