@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d49a9257-91c6-4d7c-b47d-9bfc1f8a6f42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/Boards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/BodyArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/Projects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/methods/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/BoardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/ColumnDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/CreateProjectBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/CreateTaskBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/CreateUserBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/LogInBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/ProjectID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/TaskDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/TaskID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/objects/UserID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/steps/BaseAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/steps/BoardAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/steps/ProjectAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/steps/TaskAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/steps/UserAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/tests/BaseAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/tests/BoardAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/tests/ProjectAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/utils/EnvProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pageobjects/BoardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pageobjects/CreateTaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pageobjects/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pageobjects/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/pageobjects/TaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/AddCommentUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/BaseUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CloseTaskUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CreateNewTaskUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/CreateProjectUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ui/tests/LogInUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/env.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/regression.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RyCytlix5X9ZPMMpgZayIN8Pbx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Studying/QA Automation/Homework/dz-14&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Studying\QA Automation\Diploma project\Diploma-project\src\test\java" />
+      <recent name="D:\Studying\QA Automation\Diploma project\Diploma-project\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ui.objects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CreateNewTaskUITest.testCreateTaskPositive">
+    <configuration name="AddCommentUITest.testAddComment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Diploma-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.AddCommentUITest" />
+      <option name="METHOD_NAME" value="testAddComment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloseTaskUITest.testCloseTask" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Diploma-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.CloseTaskUITest" />
+      <option name="METHOD_NAME" value="testCloseTask" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateNewTaskUITest.testCreateTaskPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Diploma-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.CreateNewTaskUITest" />
+      <option name="METHOD_NAME" value="testCreateTaskPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateProjectUITest.testCreateProjectPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Diploma-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.CreateProjectUITest" />
+      <option name="METHOD_NAME" value="testCreateProjectPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInUITest.testLogInPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Diploma-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui.tests.LogInUITest" />
+      <option name="METHOD_NAME" value="testLogInPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CreateNewTaskUITest.testCreateTaskPositive" />
+        <item itemvalue="TestNG.CreateProjectUITest.testCreateProjectPositive" />
+        <item itemvalue="TestNG.AddCommentUITest.testAddComment" />
+        <item itemvalue="TestNG.CloseTaskUITest.testCloseTask" />
+        <item itemvalue="TestNG.LogInUITest.testLogInPositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49a9257-91c6-4d7c-b47d-9bfc1f8a6f42" name="Changes" comment="" />
+      <created>1688213192514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688213192514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/api/steps/ProjectAPISteps.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
